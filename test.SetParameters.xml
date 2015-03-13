@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="localhost/root/test" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-test-20150306124139.mdf;Initial Catalog=aspnet-test-20150306124139;Integrated Security=True" />
+</parameters>
